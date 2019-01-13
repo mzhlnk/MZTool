@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MZLink>
+	<folder path="C:\Users\zhmeng\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\FavLnks" />
+	<folder name="Tool">
+		<shexec file="C:\Windows\system32\cmd.exe" arg="prompt #" />
+		<cmdexec app="C:\Windows\system32\cmd.exe" arg="prompt #" />
+	</folder>
+</MZLink>
